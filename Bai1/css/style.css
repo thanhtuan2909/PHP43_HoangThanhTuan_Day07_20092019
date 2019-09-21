@@ -1,0 +1,7 @@
+input[type=number], input[type=text] {
+	width: 100%;
+}
+
+.form-title {
+	padding-bottom: 15px;
+}
